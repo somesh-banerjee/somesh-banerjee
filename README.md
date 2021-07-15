@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/somesh-banerjee/count.svg)
 
 <!--
 **somesh-banerjee/somesh-banerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
