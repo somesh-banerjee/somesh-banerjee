@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>Profile Views</td>
-    <td><img src="https://profile-counter.glitch.me/somesh-banerjee/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/someshbanerjee/count.svg" alt="" /></td>
   </tr>
 </table>
 
