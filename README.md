@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 
-<img src="bio.gif">
+<img src="name.gif">
 
 I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am  interested in Infosec and blockchain industry.
 
