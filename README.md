@@ -12,6 +12,8 @@
 
 I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am  interested in Infosec and blockchain industry.
 
+[Website](https://somesh-banerjee.github.io/)
+
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast)
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/github-readme-stats)
