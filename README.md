@@ -18,6 +18,8 @@ I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am  interested in In
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src)
 
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
+
 📫 Reach me at:
 
 <a href="https://twitter.com/banerjee_somesh" target="_blank">
