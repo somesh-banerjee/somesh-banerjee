@@ -10,15 +10,20 @@
 
 <img src="name.gif">
 
-I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am  interested in Infosec and blockchain industry.
+I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am interested in Infosec and the blockchain industry. I have played in several CTFs, taken part in hackathons, and built decentralized apps over Ethereum blockchain.
 
-[Website](https://somesh-banerjee.github.io/)
+Check my [Website](https://somesh-banerjee.github.io/)
 
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast)
 
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin)
+
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src)
 
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups)
 
 📫 Reach me at:
 
