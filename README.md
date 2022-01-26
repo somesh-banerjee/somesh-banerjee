@@ -12,9 +12,11 @@
 
 I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am interested in Infosec and the blockchain industry. I have played in several CTFs, taken part in hackathons, and built decentralized apps over Ethereum blockchain.
 
-Check my [Website](https://somesh-banerjee.github.io/)
+Check my [Website](https://somesh-banerjee.github.io/) for more.
 
-![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast)
+![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true)
+
+[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10)](https://github.com/somesh-banerjee/)
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
 
@@ -22,6 +24,8 @@ Check my [Website](https://somesh-banerjee.github.io/)
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src)
 
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie)
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups)
 
