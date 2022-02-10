@@ -16,11 +16,11 @@ Check my [Website](https://somesh-banerjee.github.io/) for more.
 
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true)
 
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin)
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src)
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie)
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups)
+|  |  |
+| --- | --- |
+| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src) |
+| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie) |
+| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups) |  |
 
 [![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10)](https://github.com/somesh-banerjee/)
 
