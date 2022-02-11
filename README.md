@@ -14,6 +14,11 @@ I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am interested in Inf
 
 Check my [Website](https://somesh-banerjee.github.io/) for more.
 
+## Online Platforms
+
+  [<img src="https://tryhackme-badges.s3.amazonaws.com/master245.png" alt="TryHackMe">](https://tryhackme.com/p/master245)
+  
+
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true)
 
 |  |  |
