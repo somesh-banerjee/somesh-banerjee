@@ -24,11 +24,11 @@ Check my [Website](https://somesh-banerjee.github.io/) for more.
 | Blockchain Projects | Blockchain Projects |
 | --- | --- |
 | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src) |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin) |  |
+| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=promises-in-blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/promises-in-blockchain) |
 
-| Writeups/Tutorials |  |
+| Writeups/Tutorials | Misc. Tools |
 | --- | --- |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie) |  |
+| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=resume-maker-c12&theme=gruvbox)](https://github.com/somesh-banerjee/resume-maker-c12) |
 | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups) |  |
 
 [![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10)](https://github.com/somesh-banerjee/)
