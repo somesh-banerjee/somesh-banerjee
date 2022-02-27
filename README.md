@@ -1,42 +1,57 @@
 <table>
   <tr>
     <td>Profile Views</td>
-    <td><img src="https://profile-counter.glitch.me/someshbanerjee/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/someshbanerjee1111/count.svg" alt="Count" /></td>
   </tr>
 </table>
 
-### Hi there 👋
+# Hi there 👋, I am Somesh
 
+<img src="name.gif" width="500" alt="Somesh Banerjee GIF" align="right">
 
-<img src="name.gif">
+- Currently a B. Tech Undergraduate student at IIIT Naya Raipur.
+- Interested in Infosec and the blockchain industry.
+- Club Head at [CipherCell](), Cybersecurity club of IIIT Naya Raipur.
+- Have built smart contracts using solidity and web-apps using reactjs and nextjs.
+- Built fullstack decentralized apps on Ethereum and Polygon network.
+- Have played in several CTFs, and taken part in hackathons.
+- Check my [Website](https://somesh-banerjee.github.io/) and [Blogs](https://somesh-banerjee.github.io/blogs/) for more.
 
-I am a B. Tech Undergraduate student at IIIT Naya Raipur. I am interested in Infosec and the blockchain industry. I have played in several CTFs, taken part in hackathons, and built decentralized apps over Ethereum blockchain.
-
-Check my [Website](https://somesh-banerjee.github.io/) for more.
+### The video at right 👉 is built by me using After Effects.Like it? Watch it with sound at [Youtube](https://youtu.be/OUTUCM1Dob4)
 
 ## Online Platforms
 
   [<img src="https://tryhackme-badges.s3.amazonaws.com/master245.png" alt="TryHackMe">](https://tryhackme.com/p/master245)
   
 
-![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true)
+![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true) &nbsp;
+[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10&layout=compact)](https://github.com/somesh-banerjee/)
 
-| Blockchain Projects | Blockchain Projects |
-| --- | --- |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src) |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=promises-in-blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/promises-in-blockchain) |
+### Blockchain Projects
 
-| Writeups/Tutorials | Misc. Tools |
-| --- | --- |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=resume-maker-c12&theme=gruvbox)](https://github.com/somesh-banerjee/resume-maker-c12) |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups) |  |
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Metaverse-Market&theme=gruvbox)](https://github.com/somesh-banerjee/Metaverse-Market)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
 
-| Android Projects | Android Projects |
-| --- | --- |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=AQI-monitor&theme=gruvbox)](https://github.com/somesh-banerjee/AQI-monitor) | [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hostel-Management&theme=gruvbox)](https://github.com/somesh-banerjee/Hostel-Management) |
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=BloodDriveApp&theme=gruvbox)](https://github.com/somesh-banerjee/BloodDriveApp) |  |
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=gruvbox)](https://github.com/somesh-banerjee/Somcoin)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=gruvbox)](https://github.com/somesh-banerjee/Crwd_Src)
 
-[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10)](https://github.com/somesh-banerjee/)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=promises-in-blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/promises-in-blockchain)
+
+
+### Writeups/Tutorials
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie)
+| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups)
+
+### Misc. Tools
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=resume-maker-c12&theme=gruvbox)](https://github.com/somesh-banerjee/resume-maker-c12)
+
+### Android Projects
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=AQI-monitor&theme=gruvbox)](https://github.com/somesh-banerjee/AQI-monitor)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hostel-Management&theme=gruvbox)](https://github.com/somesh-banerjee/Hostel-Management)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=BloodDriveApp&theme=gruvbox)](https://github.com/somesh-banerjee/BloodDriveApp)
 
 📫 Reach me at:
 
