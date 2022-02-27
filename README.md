@@ -7,7 +7,7 @@
 
 # Hi there 👋, I am Somesh
 
-<img src="name.gif" width="500" alt="Somesh Banerjee GIF" align="right">
+<img src="name.gif" width="350" alt="Somesh Banerjee GIF" align="right">
 
 - Currently a B. Tech Undergraduate student at IIIT Naya Raipur.
 - Interested in Infosec and the blockchain industry.
@@ -17,12 +17,34 @@
 - Have played in several CTFs, and taken part in hackathons.
 - Check my [Website](https://somesh-banerjee.github.io/) and [Blogs](https://somesh-banerjee.github.io/blogs/) for more.
 
-### The video at right 👉 is built by me using After Effects.Like it? Watch it with sound at [Youtube](https://youtu.be/OUTUCM1Dob4)
+#### The video at right 👉 is made by me using After Effects.Like it? Watch with sound at [Youtube](https://youtu.be/OUTUCM1Dob4)
 
 ## Online Platforms
 
-  [<img src="https://tryhackme-badges.s3.amazonaws.com/master245.png" alt="TryHackMe">](https://tryhackme.com/p/master245)
-  
+<table>
+  <tr>
+    <td><a href="https://tryhackme.com/p/master245">
+      <img width="250" src="https://tryhackme-badges.s3.amazonaws.com/master245.png" alt="TryHackMe">
+    </a></td>
+    <td><a href="https://leetcode.com/master245/">
+      <img width="220" src="./logo/leetcode.png" alt="LeetCode">
+    </a></td>
+    <td><a href="https://www.hackerrank.com/someshbanerjee">
+      <img width="220" src="./logo/hackerrank.png" alt="HackerRank">
+    </a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codechef.com/users/someshbanerjee">
+      <img width="220" src="./logo/codechef.png" alt="CodeChef">
+    </a></td>
+    <td><a href="https://app.hackthebox.com/profile/374156">
+      <img width="250" src="./logo/htb.png" alt="HackTheBox">
+    </a></td>
+    <td><a href="">
+      <img width="220" src="" alt="Other">
+    </a></td>
+  </tr>
+</table>
 
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true) &nbsp;
 [![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10&layout=compact)](https://github.com/somesh-banerjee/)
@@ -37,11 +59,10 @@
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=promises-in-blockchain&theme=gruvbox)](https://github.com/somesh-banerjee/promises-in-blockchain)
 
-
 ### Writeups/Tutorials
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=gruvbox)](https://github.com/somesh-banerjee/ScriptKiddie)
-| [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=gruvbox)](https://github.com/somesh-banerjee/CTF-Writeups)
 
 ### Misc. Tools
 
@@ -73,8 +94,6 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<!--
-**somesh-banerjee/somesh-banerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
