@@ -22,9 +22,8 @@
 
 #### The video at right 👉 is made by me using After Effects.Like it? Watch with sound at [Youtube](https://youtu.be/OUTUCM1Dob4)
 
-
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true) &nbsp;
-[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10&layout=compact)](https://github.com/somesh-banerjee/)
+[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10&layout=compact&card_width=270)](https://github.com/somesh-banerjee/)
 
 ### Blockchain Projects
 
