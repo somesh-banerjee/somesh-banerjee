@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>Profile Views</td>
+    <td><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Profile Views"></td>
     <td><img src="https://profile-counter.glitch.me/someshbanerjee/count.svg" alt="Count" /></td>
   </tr>
 </table>
@@ -8,6 +8,9 @@
 # Hi there 👋, I am Somesh
 
 <img src="name.gif" width="350" alt="Somesh Banerjee GIF" align="right">
+
+[![](https://badges.pufler.dev/years/somesh-banerjee)]()
+[![](https://badges.pufler.dev/repos/somesh-banerjee)]()
 
 - Currently a B. Tech Undergraduate student at IIIT Naya Raipur.
 - Interested in Infosec and the blockchain industry.
@@ -19,32 +22,6 @@
 
 #### The video at right 👉 is made by me using After Effects.Like it? Watch with sound at [Youtube](https://youtu.be/OUTUCM1Dob4)
 
-## Online Platforms
-
-<table>
-  <tr>
-    <td><a href="https://tryhackme.com/p/master245">
-      <img width="250" src="https://tryhackme-badges.s3.amazonaws.com/master245.png" alt="TryHackMe">
-    </a></td>
-    <td><a href="https://leetcode.com/master245/">
-      <img width="220" src="./logo/leetcode.png" alt="LeetCode">
-    </a></td>
-    <td><a href="https://www.hackerrank.com/someshbanerjee">
-      <img width="220" src="./logo/hackerrank.png" alt="HackerRank">
-    </a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.codechef.com/users/someshbanerjee">
-      <img width="220" src="./logo/codechef.png" alt="CodeChef">
-    </a></td>
-    <td><a href="https://app.hackthebox.com/profile/374156">
-      <img width="250" src="./logo/htb.png" alt="HackTheBox">
-    </a></td>
-    <td><a href="">
-      <img width="220" src="" alt="Other">
-    </a></td>
-  </tr>
-</table>
 
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true) &nbsp;
 [![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10&layout=compact)](https://github.com/somesh-banerjee/)
@@ -74,6 +51,32 @@
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hostel-Management&theme=gruvbox)](https://github.com/somesh-banerjee/Hostel-Management)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=BloodDriveApp&theme=gruvbox)](https://github.com/somesh-banerjee/BloodDriveApp)
 
+## Online Platforms
+
+<table>
+  <tr>
+    <td><a href="https://tryhackme.com/p/master245">
+      <img width="250" src="https://tryhackme-badges.s3.amazonaws.com/master245.png" alt="TryHackMe">
+    </a></td>
+    <td><a href="https://leetcode.com/master245/">
+      <img width="220" src="./logo/leetcode.png" alt="LeetCode">
+    </a></td>
+    <td><a href="https://www.hackerrank.com/someshbanerjee">
+      <img width="220" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+    </a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codechef.com/users/someshbanerjee">
+      <img width="220" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef">
+    </a></td>
+    <td><a href="https://app.hackthebox.com/profile/374156">
+      <img width="250" src="./logo/htb.png" alt="HackTheBox">
+    </a></td>
+    <td>
+    </td>
+  </tr>
+</table>
+
 📫 Reach me at:
 
 <a href="https://twitter.com/banerjee_somesh" target="_blank">
@@ -94,15 +97,3 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
