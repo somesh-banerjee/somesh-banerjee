@@ -3,6 +3,9 @@
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Metaverse-Market&theme=highcontrast)](https://github.com/somesh-banerjee/Metaverse-Market)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=highcontrast)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
 
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=poolcar&theme=highcontrast)](https://github.com/somesh-banerjee/poolcar)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=TransactionVerifier&theme=highcontrast)](https://github.com/somesh-banerjee/TransactionVerifier)
+
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=highcontrast)](https://github.com/somesh-banerjee/Somcoin)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=highcontrast)](https://github.com/somesh-banerjee/Crwd_Src)
 
