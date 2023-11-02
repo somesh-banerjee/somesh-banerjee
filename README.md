@@ -86,7 +86,7 @@
 <br>
 
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true) &nbsp;
-[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook&langs_count=10&layout=compact&card_width=270)](https://github.com/somesh-banerjee/)
+[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook,html&langs_count=10&layout=compact&card_width=270)](https://github.com/somesh-banerjee/)
 
 <br>
 
