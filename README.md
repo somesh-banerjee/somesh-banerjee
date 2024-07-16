@@ -12,11 +12,11 @@
 [![](https://badges.pufler.dev/years/somesh-banerjee)]()
 [![](https://badges.pufler.dev/repos/somesh-banerjee)]()
 
-- Currently a B. Tech Undergraduate student at IIIT Naya Raipur.
+- Engineering @ Teliolabs 
+- B. Tech from IIIT Naya Raipur.
 - Interested in Infosec and the blockchain industry.
-- Club Head at [CipherCell](), Cybersecurity club of IIIT Naya Raipur.
-- Built fullstack decentralized apps on Ethereum and Polygon network.
-- Have played in several CTFs, and taken part in hackathons.
+- Learning about ZKPs and Blockchain scaling solutions.
+- Looking to collaborate on Blockchain projects.
 - Check my [Website](https://somesh-banerjee.github.io/) and [Blogs](https://somesh-banerjee.github.io/blogs/) for more.
 
 #### The video at right 👉 is made by me using After Effects.Like it? Watch with sound at [Youtube](https://youtu.be/OUTUCM1Dob4)
