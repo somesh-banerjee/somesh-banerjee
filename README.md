@@ -27,73 +27,77 @@
 <table>
   <tr>
       <td>Languages</td><td> 
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" alt="" >
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="" >
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="" ></td>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" >
+      <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" alt="Solidity" >
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" >
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JS" >
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python" ></td>
   </tr>
   <tr>
-      <td>Blockchain</td><td>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white" alt="" ></td>
-  </tr>
-  <tr>
-      <td>Frontend</td><td>
-      <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="" >
-      <img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=flat&logo=semanticuireact&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="" ></td>
+      <td>Blockchain techs</td><td>
+        <img src="https://img.shields.io/badge/Smart%20Contracts-000000?style=flat&logo=Sst&logoColor=white" alt="Smart Contracts" >
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" alt="EVM" >
+      <img src="https://img.shields.io/badge/ZK%20Proofs-000000?style=flat&logo=Zulip&logoColor=white" alt="ZKP" >
+      <img src="https://img.shields.io/badge/hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white" alt="Hyperledger" ></td>
   </tr>
   <tr>
       <td>Backend</td><td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="" ></td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="NodeJS" >
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="ExpressJS" >
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" ></td>
+  </tr>
+    <tr>
+      <td>Database</td><td>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" >
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" >
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL" >
+      <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" alt="Firebase" ></td>
   </tr>
   <tr>
-      <td>Cloud Hosting</td><td>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="" ></td>
+      <td>Frontend</td><td>
+      <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="NextJS" >
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" >
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" ></td>
   </tr>
-  <tr>
-      <td>Linux Tools</td><td>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" alt="" ></td>
+    <tr>
+        <td>DevOps</td><td>
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" >
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" >
+        <img src="https://img.shields.io/badge/NGINX-269539?style=flat&logo=nginx&logoColor=white" alt="NGINX" >
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" ></td>
+    </tr>
+    <tr>
+      <td>Cloud Platforms</td><td>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" >
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" ></td>
   </tr>
-  <tr>
-      <td>Datanase</td><td>
-      <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" alt="" >
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="" ></td>
-  </tr>
-  <tr>
-      <td>IDE</td><td>
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="" >
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="" ></td>
-  </tr>
-  <tr>
+  <!-- <tr>
       <td>Others</td><td>
       <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252" alt="" >
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="" >
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="" >
       <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white" alt="" >
       <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665" alt="" ></td>
-  </tr>
+  </tr> -->
 </table>
 
 <br>
 
 ![Somesh's GitHub stats](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api?username=somesh-banerjee&show_icons=true&theme=highcontrast&count_private=true) &nbsp;
-[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook,html&langs_count=10&layout=compact&card_width=270)](https://github.com/somesh-banerjee/)
+[![Top Langs](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/top-langs/?username=somesh-banerjee&theme=highcontrast&hide=Jupyter%20Notebook,html,css&langs_count=10&layout=compact&card_width=270)](https://github.com/somesh-banerjee/)
 
 <br>
 
 ### Blockchain Projects
 
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Metaverse-Market&theme=highcontrast)](https://github.com/somesh-banerjee/Metaverse-Market)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=highcontrast)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Onchain-Doc-Editor&theme=highcontrast)](https://github.com/somesh-banerjee/Onchain-Doc-Editor)
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=zero-knowledge-sample-contract&theme=highcontrast)](https://github.com/somesh-banerjee/zero-knowledge-sample-contract)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Upgradeable-Contracts&theme=highcontrast)](https://github.com/somesh-banerjee/Upgradeable-Contracts)
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Sealed-bid-auction-on-ethereum&theme=highcontrast)](https://github.com/somesh-banerjee/Sealed-bid-auction-on-ethereum)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Metaverse-Market&theme=highcontrast)](https://github.com/somesh-banerjee/Metaverse-Market)
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Somcoin&theme=highcontrast)](https://github.com/somesh-banerjee/Somcoin)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=highcontrast)](https://github.com/somesh-banerjee/Crwd_Src)
@@ -104,13 +108,16 @@
 
 ### Writeups/Tutorials
 
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=solidity-smart-contract-vulnerabilities&theme=highcontrast)](https://github.com/somesh-banerjee/solidity-smart-contract-vulnerabilities)
+
+
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=ScriptKiddie&theme=highcontrast)](https://github.com/somesh-banerjee/ScriptKiddie)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=CTF-Writeups&theme=highcontrast)](https://github.com/somesh-banerjee/CTF-Writeups)
 
 <br>
 
 ### Misc. Tools
-
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=api-simulator&theme=highcontrast)](https://github.com/somesh-banerjee/api-simulator)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=resume-maker-c12&theme=highcontrast)](https://github.com/somesh-banerjee/resume-maker-c12)
 
 <br>
