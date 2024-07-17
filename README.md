@@ -106,6 +106,14 @@
 
 <br>
 
+### Full Stack Projects
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=chat-app-nestjs&theme=highcontrast)](https://github.com/somesh-banerjee/chat-app-nestjs)
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=streaming-app-node&theme=highcontrast)](https://github.com/somesh-banerjee/streaming-app-node)
+
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=balance-tracker-for-business&theme=highcontrast)](https://github.com/somesh-banerjee/balance-tracker-for-business)
+
+
 ### Writeups/Tutorials
 
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=solidity-smart-contract-vulnerabilities&theme=highcontrast)](https://github.com/somesh-banerjee/solidity-smart-contract-vulnerabilities)
