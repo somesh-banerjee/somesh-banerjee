@@ -115,7 +115,7 @@
 
 
 ### Writeups/Tutorials
-
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=zkp-tutorial&theme=highcontrast)](https://github.com/somesh-banerjee/zkp-tutorial)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=solidity-smart-contract-vulnerabilities&theme=highcontrast)](https://github.com/somesh-banerjee/solidity-smart-contract-vulnerabilities)
 
 
