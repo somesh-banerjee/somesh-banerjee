@@ -102,7 +102,6 @@
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=chat-app-nestjs&theme=highcontrast)](https://github.com/somesh-banerjee/chat-app-nestjs)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=streaming-app-node&theme=highcontrast)](https://github.com/somesh-banerjee/streaming-app-node)
 
-### Misc. Tools
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=api-simulator&theme=highcontrast)](https://github.com/somesh-banerjee/api-simulator)
 
 #### [Link to my repositories Tab of Github profile](https://github.com/somesh-banerjee?tab=repositories)
