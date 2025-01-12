@@ -93,15 +93,16 @@
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=AnonVoting&theme=highcontrast)](https://github.com/somesh-banerjee/AnonVoting)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Hospital-Records-Blockchain&theme=highcontrast)](https://github.com/somesh-banerjee/Hospital-Records-Blockchain)
 
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=turiya&theme=highcontrast)](https://github.com/somesh-banerjee/turiya)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Onchain-Doc-Editor&theme=highcontrast)](https://github.com/somesh-banerjee/Onchain-Doc-Editor)
+
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Sealed-bid-auction-on-ethereum&theme=highcontrast)](https://github.com/somesh-banerjee/Sealed-bid-auction-on-ethereum)
-
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Metaverse-Market&theme=highcontrast)](https://github.com/somesh-banerjee/Metaverse-Market)
+
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=Crwd_Src&theme=highcontrast)](https://github.com/somesh-banerjee/Crwd_Src)
-
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=chat-app-nestjs&theme=highcontrast)](https://github.com/somesh-banerjee/chat-app-nestjs)
-[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=streaming-app-node&theme=highcontrast)](https://github.com/somesh-banerjee/streaming-app-node)
 
+[![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=streaming-app-node&theme=highcontrast)](https://github.com/somesh-banerjee/streaming-app-node)
 [![Readme Card](https://github-readme-stats-aqvxd7irz-somesh-banerjee.vercel.app/api/pin/?username=somesh-banerjee&repo=api-simulator&theme=highcontrast)](https://github.com/somesh-banerjee/api-simulator)
 
 #### [Link to my repositories Tab of Github profile](https://github.com/somesh-banerjee?tab=repositories)
